@@ -1,2 +1,2 @@
 # filezip-maven-plugin
-A Maven plugin that zips the files specified in a directory.
+A Maven plugin that creates a zip file.
